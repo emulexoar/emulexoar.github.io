@@ -1,4 +1,67 @@
-# Professional Personal Website
+A modern, enterprise-grade personal portfolio website built for GitHub Pages deployment. This website showcases your professional profile, skills, projects, and experience with a clean, responsive design and advanced interactive features.
+
+# Marvin De Los Angeles — AI Solution Architect
+
+Welcome to the professional portfolio of **Marvin De Los Angeles**, a passionate AI Solution Architect with over 20 years of experience in IT, automation, and enterprise technology. This site is a living showcase of Marvin's journey, expertise, and vision for the future of generative AI, demand forecasting, and intelligent automation.
+
+## 👋 About Marvin
+
+Marvin is a results-driven technologist specializing in:
+
+- **Generative AI & LLMs**: Architecting and deploying advanced AI solutions for real-world business impact
+- **Demand Forecasting**: Building predictive systems that optimize operations and drive growth
+- **Enterprise Automation**: Leading digital transformation with intelligent automation platforms
+- **Conversational AI**: Creator of the KENDI (Knowledge-Enhanced Natural Dialog Interface) framework and enterprise copilot solutions
+
+He is recognized for bridging the gap between business needs and technical innovation, delivering solutions that are robust, scalable, and future-ready.
+
+## 🌟 Portfolio Features
+
+This website is more than a template—it's a reflection of Marvin's professional brand:
+
+- **Modern, Enterprise-Grade Design**: Clean, dark-themed, and fully responsive
+- **Showcases Real Projects**: From GenAI platforms to automation frameworks
+- **Interactive Timeline**: Explore Marvin's career progression and key achievements
+- **Skills & Tech Stack**: See the tools and technologies Marvin uses to deliver results
+- **Downloadable Resume**: Get Marvin's latest CV in one click
+- **Contact & Connect**: Reach out for collaboration, consulting, or speaking opportunities
+
+## 🚀 How to Use This Site
+
+This site is built for GitHub Pages and can be forked or adapted for your own professional brand. If you're here to learn from Marvin's work, explore the sections and check out the code. If you're a recruiter, client, or collaborator, you'll find everything you need to know about Marvin's expertise, projects, and contact details.
+
+## 🛠️ Technical Details
+
+This site is built with:
+- **HTML5, CSS3, and Vanilla JavaScript**
+- **Font Awesome** for iconography
+- **AOS** for scroll animations
+- **Google Fonts (Inter)** for typography
+- **Optimized for GitHub Pages**
+
+You can run it locally with:
+
+```bash
+python -m http.server 8000
+```
+
+Or deploy it to your own GitHub Pages site by forking this repository.
+
+## 🌐 Connect with Marvin
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile) — Professional network
+- [GitHub](https://github.com/emulexoar) — Code, projects, and open source
+- [Email](mailto:marvindelosangeles78@gmail.com) — For consulting, collaboration, or speaking
+
+For the latest resume, see [assets/img/resume.pdf](assets/img/resume.pdf)
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+**Built and maintained by Marvin De Los Angeles — AI Solution Architect, innovator, and lifelong learner.**
 
 A modern, enterprise-grade personal portfolio website built for GitHub Pages deployment. This website showcases your professional profile, skills, projects, and experience with a clean, responsive design and advanced interactive features.
 
