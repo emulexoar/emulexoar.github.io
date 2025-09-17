@@ -13,11 +13,11 @@ const typewriterElement = document.querySelector('.typewriter');
 const CONFIG = {
     typewriter: {
         texts: [
-            'DevOps & Automation Architect',
-            'GenAI Solutions Developer',
-            'Python & Rasa Specialist',
-            'Cloud Infrastructure Expert',
-            'Automation Innovation Leader'
+            'AI Solution Architect',
+            'Generative AI Specialist',
+            'Demand Forecasting Expert', 
+            'Enterprise AI Strategist',
+            'KENDI Framework Developer'
         ],
         typeSpeed: 100,
         deleteSpeed: 50,
@@ -586,7 +586,7 @@ class EasterEggs {
         - Performance optimizations
         - Accessibility best practices
         
-        Want to chat about automation, GenAI, or DevOps?
+        Want to chat about AI solutions, demand forecasting, or GenAI implementations?
         Feel free to reach out! 
         `);
     }
